@@ -1,7 +1,7 @@
 <?php
 
-$peso = 60;
-$altura = 1.74;
+$peso = 100;
+$altura = 1.79;
 $imc = $peso / $altura ** 2;
 
 echo "Seu IMC é de $imc. Você está com o IMC ";
