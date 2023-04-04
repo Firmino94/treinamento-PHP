@@ -1,6 +1,6 @@
 <?php
 
-$multiplicador = 3;
+$multiplicador = 5;
 
 for ($i = 1; $i <= 10; $i++) {
     $resultado = $multiplicador * $i;
